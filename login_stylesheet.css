@@ -1,0 +1,24 @@
+
+
+.button,.text_box
+{
+  position:relative;		
+	border-radius:0px;
+}
+
+.right-label
+{
+	float:right;
+}
+
+.list_item
+{
+	margin-left:2%;
+}
+
+.text_area
+{
+	margin-top:2%;
+	border-radius:0px;
+	resize:none;
+}
